@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-part2encryptor",
+      "appliesTo": "part2encryptor.bin",
+      "type": "launch"
+    }
+  ]
+}
